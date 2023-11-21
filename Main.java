@@ -3,5 +3,6 @@ public class Main {
         System.out.println("Добавлено в ветке dev");
         System.out.println("something change");
         System.out.println("Karamba");
+        System.out.println("Wubba Lubba dub-dub");
     }
 }
