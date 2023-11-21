@@ -3,5 +3,6 @@ public class Main {
         System.out.println("Это добавлено в ветке main");
         System.out.println("add some changes");
         System.out.println("add big changes");
+        System.out.println("add huge changes");
     }
 }
